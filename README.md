@@ -1,29 +1,11 @@
-# Hi, I'm Rachel 👋
+# Rachel Mathew
 
-Computer Science student at PES University passionate about full-stack development, open source, and machine learning.
+CS student at PES University building ML systems and developer tools.
 
-## 🚀 Current Focus
-- Full-Stack Development
-- Open Source Contributions (GSSoC '26)
-- Data Structures & Algorithms
-- Machine Learning
+**Semantic Code Search** — natural language search over Python codebases  
+using AST parsing, sentence-transformers, and ChromaDB.  
+90% Precision@3 · 13.5ms avg query latency · [repo](https://github.com/Rachel-Mathew25/semantic-code-search)
 
-## 🛠 Tech Stack
-- C
-- Python
-- JavaScript
-- HTML/CSS
-- Git & GitHub
+GSSoC '26 contributor
 
-## 📌 Featured Work
-- Open source contributions through GSSoC
-- ML coursework projects
-- Full-stack projects in progress
-
-## 🌱 Currently Learning
-- Backend development
-- System design fundamentals
-- Scalable application architecture
-
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/rachel-mathew-8b5a05235/
+[LinkedIn](your-link) · [Portfolio](https://rachelmathew25-portfolio.vercel.app)
