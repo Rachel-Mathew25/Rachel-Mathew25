@@ -66,7 +66,7 @@ rachel = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Rachel-Mathew25&show_icons=true&theme=tokyonight&bg_color=0D0D1A&border_color=7C3AED&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&hide_border=false&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Rachel-Mathew25&show_icons=true&theme=tokyonight&bg_color=0D0D1A&border_color=7C3AED&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD&hide_border=false&count_private=true" />
 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachel-Mathew25&layout=compact&theme=tokyonight&bg_color=0D0D1A&border_color=7C3AED&title_color=A78BFA&text_color=C4B5FD&hide_border=false&langs_count=6" />
 
