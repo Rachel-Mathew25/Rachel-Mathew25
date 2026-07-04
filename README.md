@@ -62,7 +62,7 @@ rachel = {
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=python,fastapi,git,github,linux,vscode,javascript&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,fastapi,git,github,linux,vscode,javascript,graphql,chrome&theme=dark)](https://skillicons.dev)
 
 </div>
 
