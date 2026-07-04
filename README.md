@@ -34,7 +34,7 @@ rachel = {
 
 ---
 
-## Featured project
+## Featured projects
 
 **[Semantic Code Search Engine](https://github.com/Rachel-Mathew25/semantic-code-search)**
 > Natural language search over Python codebases — no keyword matching, pure semantic retrieval
@@ -46,19 +46,29 @@ rachel = {
 
 `Python` `FastAPI` `ChromaDB` `sentence-transformers` `Streamlit`
 
+**[Streak Guardian](https://github.com/Rachel-Mathew25/streak-guardian)**
+> A Chrome extension that keeps GitHub contribution graphs honest — real activity checks, not vanity commits
+
+- Manifest V3 service worker on a `chrome.alarms` schedule, working around Chrome's ~30s idle worker termination
+- Queries GitHub's GraphQL API for real daily contribution counts, matched against GitHub's own date boundaries (fixed a real cross-timezone bug during development)
+- Auto-commits an honest devlog entry via the GitHub Contents API — built from self-logged notes, never fabricated activity — only when nothing else was contributed that day
+- Diagnosed and fixed a Base64/Unicode encoding bug (`btoa`'s Latin1-only limitation) when committing text containing standard punctuation
+
+`JavaScript` `Chrome Extensions API` `GitHub GraphQL API` `Manifest V3`
+
 ---
 
 ## Tech
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=python,fastapi,git,github,linux,vscode&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,fastapi,git,github,linux,vscode,javascript&theme=dark)](https://skillicons.dev)
 
 </div>
 
 **ML & Data** — Scikit-learn · NumPy · Pandas · sentence-transformers · OpenCV · MediaPipe  
 **Vector / RAG** — ChromaDB · embeddings · chunking · retrieval · reranking  
-**Tools** — FastAPI · Streamlit · Git · Docker (learning)
+**Web & Tools** — FastAPI · Streamlit · Chrome Extensions API · Git · Docker (learning)
 
 ---
 
