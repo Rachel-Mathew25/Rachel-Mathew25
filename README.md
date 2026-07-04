@@ -66,9 +66,11 @@ rachel = {
 
 </div>
 
+**Languages** — Python · JavaScript  
 **ML & Data** — Scikit-learn · NumPy · Pandas · sentence-transformers · OpenCV · MediaPipe  
 **Vector / RAG** — ChromaDB · embeddings · chunking · retrieval · reranking  
-**Web & Tools** — FastAPI · Streamlit · Chrome Extensions API · Git · Docker (learning)
+**Web & APIs** — FastAPI · Streamlit · GraphQL · REST APIs · Chrome Extensions API (Manifest V3)  
+**Tools** — Git · Docker (learning)
 
 ---
 
